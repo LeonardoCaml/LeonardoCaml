@@ -17,3 +17,7 @@ conheça um pouco da minha carreira
   <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img align="center" alt="material_ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
 </div>
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCaml&exclude_repo=github-readme-stats,anuraghazra.github.io)
